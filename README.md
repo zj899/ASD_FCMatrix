@@ -14,11 +14,11 @@ ABIDEI文件夹
 				...
 			GretnaSFCMatrixZ   	 //Fisher-Z 变换后的功能连接矩阵
 				zASD29539.txt   	 //样本矩阵（自闭症患者）
-				rTC29552.txt   	 //样本矩阵（健康对照）
+				zTC29552.txt   	 //样本矩阵（健康对照）
 				...
 			GretnaTimeCourse   	 //脑区时间序列数据
-				zASD29539.txt   	 //样本矩阵（自闭症患者）
-				rTC29552.txt   	 //样本矩阵（健康对照）
+				ASD29539.txt   	 //样本矩阵（自闭症患者）
+				TC29552.txt   	 //样本矩阵（健康对照）
 				...
 		FC_AAL116   	 //AAL116模板的功能连接矩阵
 			...
